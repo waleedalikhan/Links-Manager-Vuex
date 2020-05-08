@@ -1,8 +1,10 @@
-# vuex
+# Vuetify Setup
+A VueJs project setup including (Vue, VueRouter, Vuex, Vuetify)
 
+A quick start project, just clone it and follow the instructions given bellow :-
 ## Project setup
-```
-npm install
+```bash
+npm install 
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,10 +17,16 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Tips for VSCode
+
+_*Useful extensions for Vue*_
+
+[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
+[Vue Peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
+
+
+[Vuetify](https://marketplace.visualstudio.com/items?itemName=vuetifyjs.vuetify-vscode)
